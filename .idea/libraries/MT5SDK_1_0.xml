@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MT5SDK-1.0">
+    <CLASSES>
+      <root url="jar://D:/mt5sdk/MT5SDK-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
